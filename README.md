@@ -1,4 +1,7 @@
 # image-slider-animation
 
+this is a beautiful image slider animation built react-native
 
-i biuld a beautiful image slider animation in react native
+# how to run
+
+  **run npx expo start**
